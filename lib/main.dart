@@ -1,4 +1,6 @@
 //BWA Design To Code Tutorial
+//git config --global credential.useHttpPath true -> Resolved permission denied push on github.
+
 
 import 'package:flutter/material.dart';
 import 'pages/home_page.dart';
